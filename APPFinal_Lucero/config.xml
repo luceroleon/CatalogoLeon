@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.llv"
+version = "1.0.0">
+
+<name>Catalogo Leon</name>
+
+<description>
+Proyecto final 
+</description>
+
+<author href="https://example.com" email="lucero.valdes@hotmail.com">
+Lucero Leon
+</author>
+
+<icon src="images/icono1.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/icono1.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/icono1.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/icono1.png" gap:density="xhdpi" gap:platform="android" />
+<icon src="images/phonegap.png" gap:platform="android" gap:density="hdpi" />
+
+</widget>
